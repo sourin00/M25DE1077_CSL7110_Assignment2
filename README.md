@@ -36,19 +36,26 @@ their trade-offs in accuracy and efficiency.
 
 ### 1️. Install dependencies
 
+```
 pip install numpy
-
+```
 ### 2️. Run document experiments (Parts 1--3)
 
+```
 python main_docs.py
+```
 
 ### 3️. Run MinHash on MovieLens (Part 4)
 
+```
 python movielens_minhash.py
+```
 
 ### 4️. Run LSH on MovieLens (Part 5)
 
+```
 python movielens_lsh.py
+```
 
 All outputs will be generated inside the `results/` directory.
 
