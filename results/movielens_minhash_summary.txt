@@ -1,0 +1,6 @@
+t=50	avg_FP=129.80	avg_FN=2.40
+t=100	avg_FP=25.80	avg_FN=3.20
+t=200	avg_FP=5.80	avg_FN=2.80
+t=50	avg_FP=129.80	avg_FN=2.40
+t=100	avg_FP=25.80	avg_FN=3.20
+t=200	avg_FP=5.80	avg_FN=2.80
