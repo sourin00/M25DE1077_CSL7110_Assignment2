@@ -1,7 +1,7 @@
 # CSL7110 -- Assignment 2
 ## MinHash and Locality-Sensitive Hashing
 
-------------------------------------------------------------------------
+
 
 ## Overview
 
@@ -15,7 +15,6 @@ This project implements:
 The goal is to analyze similarity detection techniques and study
 their trade-offs in accuracy and efficiency.
 
-------------------------------------------------------------------------
 
 ## Project Structure
 
@@ -31,7 +30,7 @@ their trade-offs in accuracy and efficiency.
 
 ```
 
-------------------------------------------------------------------------
+
 
 ## How to Run
 
@@ -53,7 +52,7 @@ python movielens_lsh.py
 
 All outputs will be generated inside the `results/` directory.
 
-------------------------------------------------------------------------
+
 
 ## Key Findings
 
@@ -65,7 +64,6 @@ All outputs will be generated inside the `results/` directory.
 -   LSH performs exceptionally well for high similarity thresholds
     (e.g., 0.8).
 
-------------------------------------------------------------------------
 
 ## Concepts Covered
 
@@ -74,8 +72,4 @@ All outputs will be generated inside the `results/` directory.
 -   Locality Sensitive Hashing (LSH)
 -   Scalable similarity search
 
-------------------------------------------------------------------------
-
-## References
--   MovieLens 100k Dataset -- GroupLens Research
 
