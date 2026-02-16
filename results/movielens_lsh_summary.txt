@@ -1,0 +1,16 @@
+thr=0.6	t=50	r=5	b=10	avg_FP=3.00	avg_FN=0.80
+thr=0.6	t=100	r=5	b=20	avg_FP=0.60	avg_FN=0.20
+thr=0.6	t=200	r=5	b=40	avg_FP=0.20	avg_FN=0.40
+thr=0.6	t=200	r=10	b=20	avg_FP=0.00	avg_FN=1.60
+thr=0.8	t=50	r=5	b=10	avg_FP=0.20	avg_FN=0.20
+thr=0.8	t=100	r=5	b=20	avg_FP=0.00	avg_FN=0.00
+thr=0.8	t=200	r=5	b=40	avg_FP=0.00	avg_FN=0.00
+thr=0.8	t=200	r=10	b=20	avg_FP=0.00	avg_FN=0.00
+thr=0.6	t=50	r=5	b=10	avg_FP=3.00	avg_FN=0.80
+thr=0.6	t=100	r=5	b=20	avg_FP=0.60	avg_FN=0.20
+thr=0.6	t=200	r=5	b=40	avg_FP=0.20	avg_FN=0.40
+thr=0.6	t=200	r=10	b=20	avg_FP=0.00	avg_FN=1.60
+thr=0.8	t=50	r=5	b=10	avg_FP=0.20	avg_FN=0.20
+thr=0.8	t=100	r=5	b=20	avg_FP=0.00	avg_FN=0.00
+thr=0.8	t=200	r=5	b=40	avg_FP=0.00	avg_FN=0.00
+thr=0.8	t=200	r=10	b=20	avg_FP=0.00	avg_FN=0.00
